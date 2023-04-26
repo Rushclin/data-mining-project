@@ -21,6 +21,11 @@ Le modèle utilisé dans ce projet est un classificateur de k-nearest neighbors 
 Les contributions sont les bienvenues ! Pour contribuer, suivez ces étapes :
 
 1. Fourchez le référentiel.
+
+   ```
+       git clone https://github.com/Rushclin/data-mining-project.git
+   ```
+
 2. Créez une branche pour votre contribution avec
 
    ```
